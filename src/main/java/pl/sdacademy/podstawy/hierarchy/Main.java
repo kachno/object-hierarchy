@@ -8,7 +8,7 @@ public class Main {
 
         Number number = value2;
         Double doubleValue = null;
-        if(number instanceof Double){
+        if (number instanceof Double) {
             doubleValue = (Double) number;
         }
 
